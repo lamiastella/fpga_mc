@@ -1,0 +1,9 @@
+`timescale 1ns / 100ps
+
+// BELOW FROM GORAZD
+`include "../verilog/pre_norm_fmul.v"
+`include "../verilog/primitives.v"
+`include "../verilog/post_norm.v"
+`include "../verilog/pre_norm.v"
+`include "../verilog/except.v"
+`include "../verilog/fpu.v"
