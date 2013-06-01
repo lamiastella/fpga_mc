@@ -1,0 +1,2 @@
+all:
+	iverilog rng.v -o rng
